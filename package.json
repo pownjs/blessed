@@ -1,0 +1,28 @@
+{
+  "name": "@pown/blessed",
+  "version": "1.0.0",
+  "description": "Wrapper around neo-blessed plus supporting modules",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pownjs/pown-blessed.git"
+  },
+  "keywords": [
+    "pown",
+    "blessed",
+    "term"
+  ],
+  "author": "pdp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pownjs/pown-blessed/issues"
+  },
+  "homepage": "https://github.com/pownjs/pown-blessed#readme",
+  "dependencies": {
+    "neo-blessed": "^0.2.0",
+    "strip-ansi": "^5.0.0"
+  }
+}
