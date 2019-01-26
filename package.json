@@ -1,6 +1,6 @@
 {
   "name": "@pown/blessed",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "Wrapper around neo-blessed plus supporting modules",
   "main": "lib/index.js",
   "scripts": {
