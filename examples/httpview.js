@@ -9,6 +9,8 @@ const s = screen({
 const q = new Quit()
 const h = new HTTPView()
 
+q.bindKeys()
+
 s.append(q)
 s.append(h)
 

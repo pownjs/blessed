@@ -9,6 +9,7 @@ const s = screen({
 const q = new Quit()
 const c = new Console({hidden: false})
 
+q.bindKeys()
 c.hijackConsole()
 
 s.append(q)
